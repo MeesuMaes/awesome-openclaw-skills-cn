@@ -68,7 +68,6 @@ Priority: Workspace > Local > Bundled
 - [Bookmarks & Reading](#bookmarks--reading) (7)
 - [Weather](#weather) (5)
 - [Security & Passwords](#security--passwords) (3)
-- [Other](#other) (9)
 
 ---
 
@@ -155,6 +154,7 @@ Priority: Workspace > Local > Bundled
 - [uptime-kuma](https://github.com/clawdbot/skills/tree/main/skills/msarheed/uptime-kuma/SKILL.md) - Interact with Uptime Kuma monitoring server.
 - [vercel](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/vercel/SKILL.md) - Deploy applications and manage projects with complete CLI reference.
 - [vercel-deploy](https://github.com/clawdbot/skills/tree/main/skills/sharanga10/vercel-deploy-claimable/SKILL.md) - Deploy applications and websites to Vercel.
+- [pi-admin](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/pi-admin/SKILL.md) - Raspberry Pi system administration. Monitor resources, manage services, perform updates.
 
 ## Browser & Automation
 
@@ -381,6 +381,7 @@ Priority: Workspace > Local > Bundled
 - [self-improvement](https://github.com/clawdbot/skills/tree/main/skills/pskoett/self-improving-agent/SKILL.md) - Captures learnings, errors, and corrections to enable continuous improvement.
 - [smart-followups](https://github.com/clawdbot/skills/tree/main/skills/robbyczgw-cla/smart-followups/SKILL.md) - Generate contextual follow-up suggestions after AI responses.
 - [xai](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/xai/SKILL.md) - Chat with Grok models via xAI API. Supports Grok-3, Grok-3-mini, vision, and more.
+- [manus](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/manus/SKILL.md) - Create and manage AI agent tasks via Manus API.
 
 ## Finance & Crypto
 
@@ -702,19 +703,6 @@ Priority: Workspace > Local > Bundled
 - [1password](https://github.com/clawdbot/skills/tree/main/skills/steipete/1password/SKILL.md) - Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration.
 - [bitwarden](https://github.com/clawdbot/skills/tree/main/skills/asleep123/bitwarden/SKILL.md) - Access and manage Bitwarden/Vaultwarden passwords securely using the rbw CLI.
 - [dashlane](https://github.com/clawdbot/skills/tree/main/skills/gnarco/dashlane/SKILL.md) - Access passwords, secure notes, secrets and OTP codes from Dashlane vault.
-
-## Other
-
-- [agent-registry](https://github.com/clawdbot/skills/tree/main/skills/matrixy/agent-registry/SKILL.md) - |.
-- [base-skill](https://github.com/clawdbot/skills/tree/main/skills/dc-acronym/base-skill/SKILL.md) - base-skill
-- [beanstalk-gateway](https://github.com/clawdbot/skills/tree/main/skills/tommygeoco/beanstalk-gateway/SKILL.md) - beanstalk-gateway
-- [bots](https://github.com/clawdbot/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md) - >-.
-- [get-you-some-britches](https://github.com/clawdbot/skills/tree/main/skills/am-will/get-you-some-britches/SKILL.md) - Use this skill any time I start complaining about my love life, or.
-- [manus](https://github.com/clawdbot/skills/tree/main/skills/mvanhorn/manus/SKILL.md) - Create and manage AI agent tasks via Manus API.
-- [milkee](https://github.com/clawdbot/skills/tree/main/skills/xenofex7/milkee/SKILL.md) - milkee
-- [pco](https://github.com/clawdbot/skills/tree/main/skills/rubyrunsstuff/pco/SKILL.md) - pco
-- [pi-admin](https://github.com/clawdbot/skills/tree/main/skills/thesethrose/pi-admin/SKILL.md) - Raspberry Pi system administration. Monitor resources, manage services, perform updates.
-
 
 ## Contributing
 
