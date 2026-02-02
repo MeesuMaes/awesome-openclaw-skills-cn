@@ -25,34 +25,33 @@
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
 </div>
 
-# Awesome OpenClaw(Moltbot(Clawdbot)) Skills
+# Awesome OpenClaw(Moltbot(Clawdbot)) 技能集
 
-OpenClaw (previously known as Moltbot, originally Clawdbot... identity crisis included, no extra charge) is a locally-running AI assistant that operates directly on your machine. Skills extend its capabilities, allowing it to interact with external services, automate workflows, and perform specialized tasks. This collection helps you discover and install the right skills for your needs.
+OpenClaw（曾用名 Moltbot，最初名为 Clawdbot...包含身份危机，无需额外费用）是一个在您本地机器上直接运行的 AI 助手。技能（Skills）扩展了它的能力，使其能够与外部服务交互、自动化工作流程并执行专门任务。本集合帮助您发现并安装符合需求的技能。
 
-Skills in this list are sourced from [OpenClaw](https://clawdhub.com) (OpenClaw's public skills registry) and categorized for easier discovery.
+此列表中的技能源自 [OpenClaw](https://clawdhub.com)（OpenClaw 的公共技能注册中心），并已分类以便于查找。
 
-These skills follow the Agent Skill convention develop by Anthropic, an open standard for AI coding assistants.
+这些技能遵循由 Anthropic 开发的 Agent Skill 规范，这是一个面向 AI 编程助手的开放标准。
 
-## Installation
+## 安装
 
 ### ClawdHub CLI
 
-> **Note:** As you probably know, they keep renaming things. This reflects the current official docs. We'll update this when they rename it again.
-
+> **注意：** 正如您可能知道的，他们一直在重命名。这里反映的是当前的官方文档。当他们再次重命名时，我们会更新此部分。
 ```bash
 npx clawdhub@latest install <skill-slug>
 ```
 
-### Manual Installation
+### 手动安装
 
-Copy the skill folder to one of these locations:
+将技能文件夹复制到以下任一位置：
 
-| Location | Path |
+| 位置 | 路径 |
 |----------|------|
-| Global | `~/.openclaw/skills/` |
-| Workspace | `<project>/skills/` |
+| 全局（Global） | `~/.openclaw/skills/` |
+| 工作区（Workspace） | `<项目路径>/skills/` |
 
-Priority: Workspace > Local > Bundled
+优先级：工作区 > 本地 > 内置
 
 
 ## Table of Contents
